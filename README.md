@@ -1,2 +1,2 @@
-[![Build Status](https://app.travis-ci.com/himax82/UrlShortCut.svg?branch=master)]
-[![codecov](https://codecov.io/gh/himax82/UrlShortCut/branch/master/graph/badge.svg?token=GMDHFHLXKR)](https://codecov.io/gh/himax82/UrlShortCut)
+[![Build Status](https://app.travis-ci.com/himax82/UrlShortCut.svg?branch=master)](https://app.travis-ci.com/himax82/UrlShortCut)
+[![codecov](https://codecov.io/gh/himax82/UrlShortCut/branch/master/graph/badge.svg?token=GMDHFHLXKR)]

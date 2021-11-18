@@ -1,13 +1,13 @@
 language: java
 
 jdk:
-  - openjdk15
+  - openjdk17
 
 sudo: false
 
 env:
   global:
-    - CODECOV_TOKEN='1f3c323a-bc38-4a00-826f-6ebf201154f7'
+    - CODECOV_TOKEN='817aea98-3526-459c-8100-c864d679d2b7'
 
 # после выполнения сборки запустить скрипт, который будет собирать статистику по JaCoCo
 # Здесь используется сторонний сервис https://codecov.io/

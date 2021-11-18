@@ -1,0 +1,2 @@
+[![Build Status](https://app.travis-ci.com/himax82/job4j_chat.svg?branch=master)](https://app.travis-ci.com/himax82/job4j_chat)
+[![codecov](https://codecov.io/gh/himax82/job4j_chat/branch/master/graph/badge.svg?token=YHBDAYG5YX)](https://codecov.io/gh/himax82/job4j_chat)

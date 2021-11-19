@@ -22,15 +22,13 @@ MazeGenerator
 
 ### Методы API
 
-<ul>
-<li>Регистрация сайта в сервисе. POST: /registration</li>
+Регистрация сайта в сервисе. POST: /registration
 ![ScreenShot](images/2.png)
-<li>Авторизация. POST: /login</li>
+Авторизация. POST: /login
 ![ScreenShot](images/3.png)
-<li>Конвертировать ссылку в код. POST: /convert</li>
+Конвертировать ссылку в код. POST: /convert
 ![ScreenShot](images/4.png)
-<li>Получить ссылку по коду. GET: /redirect/{code}</li>
+Получить ссылку по коду. GET: /redirect/{code}
 ![ScreenShot](images/5.png)
-<li>Получитб статистику по ссылкам. GET: /statistic</li>
+Получитб статистику по ссылкам. GET: /statistic
 ![ScreenShot](images/6.png)
-</ul>

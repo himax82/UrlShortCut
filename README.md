@@ -1,6 +1,7 @@
 [![Build Status](https://app.travis-ci.com/himax82/UrlShortCut.svg?branch=master)](https://app.travis-ci.com/himax82/UrlShortCut)
-![codecov](https://codecov.io/gh/himax82/UrlShortCut/branch/master/graph/badge.svg?token=GMDHFHLXKR)]
-
+![codecov](https://codecov.io/gh/himax82/UrlShortCut/branch/master/graph/badge.svg?token=GMDHFHLXKR)
+MazeGenerator
+=============
 ### Описание проекта
 Сервис позволяет обеспечить безопасность пользователей на сайте заменяя обычные ссылки на преобразованные. Проект представляет собой так же сервис для сбора статистики посещений страниц для различных сайтов, зарегистрированных в системе. Это веб-приложение реализует принцип архитектуры RESTful.
 
